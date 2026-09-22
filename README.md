@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/redouaneoumhdi"><img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=F7F5F0" alt="LinkedIn"></a>
 <a href="./Redouane-Oumhdi-CV.pdf?raw=true"><img src="https://img.shields.io/badge/DOWNLOAD_CV-171717?style=for-the-badge&logo=adobeacrobatreader&logoColor=F7F5F0" alt="Download CV"></a>
-<a href="https://oumhdiredouane.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-171717?style=for-the-badge&logo=vercel&logoColor=F7F5F0" alt="Open portfolio"></a>
+<a href="https://oumhdiredouane.vercel.app/"><img src="./icon.svg" alt="Open portfolio"></a>
 
 <a href="mailto:redouaneoumhdi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=F7F5F0" alt="Email"></a>
 <a href="https://www.instagram.com/redouanemar1/"><img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=F7F5F0" alt="Instagram"></a>
