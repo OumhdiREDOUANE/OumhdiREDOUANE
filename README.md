@@ -23,7 +23,7 @@ I’m Redouane, an independent developer who turns ideas into clear, useful, and
 | Project | What I built | Year |
 | :-- | :-- | --: |
 | [**packspace**](https://packspace-fin-eight.vercel.app) | A modern e-commerce platform for discovering, exploring, and purchasing packaging products. | 2025 |
-| [**packspaceStack**](https://packspace-stack.vercel.app) | An order-processing system that routes incoming orders directly to the printer for smoother fulfillment. | 2024 |
+| [**packspaceStack**](https://packspace-stack.vercel.app) | An order-processing system that routes incoming orders directly to the printer for smoother fulfillment. | 2026|
 
 ## 03 / PROCESS
 
