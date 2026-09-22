@@ -1,4 +1,4 @@
-<div class ="flex-center">
+<div align="center">
 
 # REDOUANE OUMHDI
 
