@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # REDOUANE OUMHDI
 
@@ -10,7 +10,7 @@
 <a href="mailto:redouaneoumhdi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=F7F5F0" alt="Email"></a>
 <a href="https://www.instagram.com/redouanemar1/"><img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=F7F5F0" alt="Instagram"></a>
 
-</div>
+
 
 ---
 
@@ -18,7 +18,7 @@
 
 I’m Redouane, an independent developer who turns ideas into clear, useful, and scalable digital experiences. I care about considered structure, fast interfaces, and the small interaction details that make a product feel effortless.
 
-> **Available for freelance work.** Have an idea, product, or brand that needs a clear direction? [Let’s talk.](mailto:redouaneoumhdi@gmail.com)
+> **Available for freelance work.** Have an idea, product, or brand that needs a clear direction? [Let’s talk.](mailto:redouaneoumhdi@gmail.com)</br>
 <sub>Place your CV in this repository as `Redouane-Oumhdi-CV.pdf` to activate the download button above.</sub>
 
 ## 02 / SELECTED WORK
