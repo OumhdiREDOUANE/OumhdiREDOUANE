@@ -1,4 +1,4 @@
-
+<div class ="flex-center">
 
 # REDOUANE OUMHDI
 
@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/redouanemar1/"><img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=F7F5F0" alt="Instagram"></a>
 
 
-
+</div>
 ---
 
 ## 01 / ABOUT
